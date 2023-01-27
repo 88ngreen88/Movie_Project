@@ -10,6 +10,7 @@ __pycache__/
 *.db
 *.tsv
 /zippedData
+*.zip
 
 # Distribution / packaging
 .Python
